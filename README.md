@@ -6,6 +6,9 @@
 4. 自定义View
 5. 事件分发拦截
 6. Android Framework
+7. Android Gradle Plugin/transfroms
+8. AnnotationProcessor
+9. RecyclerView
 
 ### Kotlin
 1. [Kotlin](https://github.com/songlin0859/KotlinPractice)
