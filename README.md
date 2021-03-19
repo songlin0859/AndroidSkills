@@ -9,6 +9,8 @@
 7. Android Gradle Plugin/transfroms
 8. AnnotationProcessor
 9. RecyclerView
+10. 组件化
+11. 热修复
 
 ### Kotlin
 1. [Kotlin](https://github.com/songlin0859/KotlinPractice)
